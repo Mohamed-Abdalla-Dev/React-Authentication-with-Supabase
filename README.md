@@ -24,6 +24,7 @@ A full-stack Authentication and User Management system built with **React** and 
 
 ## 📂 Project Structure & Architecture
 
+```text
 
 REACT AUTH SUPABASE
 ├── 📁 node_modules
@@ -40,6 +41,7 @@ REACT AUTH SUPABASE
 ├── 📄 .env                      ← Environment variables holding secure API keys (Kept local)
 └── 📄 .gitignore                ← Specifies intentionally untracked files to keep API keys safe from GitHub
 
+```
 
 
 ## 🚀 Live Demo & Preview
