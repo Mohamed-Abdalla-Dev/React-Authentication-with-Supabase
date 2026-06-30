@@ -1,5 +1,5 @@
 
-# 🔐 React Authentication with Supabase
+# React Authentication with Supabase
 
 A full-stack Authentication and User Management system built with **React** and **Supabase**, featuring secure signup, login, and dynamic user profile data tracking.
 
@@ -8,11 +8,11 @@ A full-stack Authentication and User Management system built with **React** and 
 ![preview](./public/Preview.png)
 
 
-## ✨ Features
-* 🔑 **Full Auth Flow:** Secure user Registration (Signup) and Authentication (Login) handled via Supabase Auth.
-* 👤 **User Profile Dashboard:** Displays the logged-in user's email along with their unique, secure Supabase User ID (UID).
-* 🎨 **Clean Minimalist UI:** User-friendly login form design with smooth validation state tracking.
-* 🛡️ **Session Persistence:** Automatically remembers logged-in users using secure token session storage.
+## Features
+* **Full Auth Flow:** Secure user Registration (Signup) and Authentication (Login) handled via Supabase Auth.
+* **User Profile Dashboard:** Displays the logged-in user's email along with their unique, secure Supabase User ID (UID).
+* **Clean Minimalist UI:** User-friendly login form design with smooth validation state tracking.
+* **Session Persistence:** Automatically remembers logged-in users using secure token session storage.
 
 
 ## 🛠️ Tech Stack
@@ -46,5 +46,5 @@ REACT AUTH SUPABASE
 
 ## 🚀 Live Demo & Preview
 
-🔗 https://
+🔗 https://react-authentication-with-supabase.vercel.app
 
