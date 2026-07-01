@@ -46,7 +46,7 @@ export default function Login() {
           <Card.Body>
             <h2 className="text-center mb-4">Login</h2>
             {error && (
-              <Alert variant="danger" className="text-end">
+              <Alert variant="danger" className="text-center">
                 {error}
               </Alert>
             )}
