@@ -46,5 +46,5 @@ REACT AUTH SUPABASE
 
 ## 🚀 Live Demo & Preview
 
-🔗 https://react-authentication-with-supabase.vercel.app
+🔗 https://incandescent-vacherin-687337.netlify.app
 
